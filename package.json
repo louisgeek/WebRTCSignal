@@ -1,7 +1,7 @@
 {
-  "name": "dw-sign",
+  "name": "webrtc-signal",
   "version": "3.0.0",
-  "description": "dw-sign",
+  "description": "WebRTC Signal",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.2.0"
