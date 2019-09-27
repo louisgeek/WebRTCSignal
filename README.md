@@ -1,4 +1,4 @@
 # WebRTC Signal
 master 
 
-develop
+develop 加入 room 隔离
