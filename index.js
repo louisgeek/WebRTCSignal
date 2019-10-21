@@ -215,7 +215,7 @@ io.on('connection', function (socket) {
             //
 
             var userModelMap = roomUser.userModelMap;
-            if (userModelMap) {
+            if (!userModelMap) {
                 console.log('userModelMap is null ' + userModelMap);
                 continue;
             }
